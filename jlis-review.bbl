@@ -1,0 +1,41 @@
+\begin{thebibliography}{1}
+
+\bibitem{Chang2009}
+M.-W. Chang, D.~Goldwasser, D.~Roth, and Y.~Tu.
+\newblock {Unsupervised constraint driven learning for transliteration
+  discovery}.
+\newblock {\em Proceedings of Human Language Technologies: The 2009 Annual
+  Conference of the North American Chapter of the Association for Computational
+  Linguistics}, (June):299--307, 2009.
+
+\bibitem{ccm}
+M.-w. Chang, L.~Ratinov, N.~Rizzolo, and D.~Roth.
+\newblock {Learning and Inference with Constraints}.
+\newblock {\em Aaai}, pages 1513--1518, 2008.
+
+\bibitem{jlis}
+M.-w. Chang, V.~Srikumar, D.~Goldwasser, and D.~Roth.
+\newblock {Structured Output Learning with Indirect Supervision}.
+\newblock {\em Proceedings of the 27th International Conference on Machine
+  Learning (ICML-10)}, pages 199--206, 2010.
+
+\bibitem{mention-hypergraph}
+W.~Lu and D.~Roth.
+\newblock Joint mention extraction and classification with mention hypergraphs.
+\newblock In {\em Proc. Conference on Empirical Methods in Natural Language
+  Processing (EMNLP2015)}, 2015.
+
+\bibitem{contrastive}
+N.~A. Smith and J.~Eisner.
+\newblock {Contrastive estimation: Training Log-Linear Models on Unlabeled
+  Data}.
+\newblock In {\em ACL'05 - 43rd Annual Meeting of the Association for
+  Computational Linguistics}, pages 354--362, 2005.
+
+\bibitem{ssvm}
+C.~Yu and T.~Joachims.
+\newblock {Learning structural SVMs with latent variables}.
+\newblock {\em {\ldots} International Conference on Machine Learning}, pages
+  1--8, 2009.
+
+\end{thebibliography}
